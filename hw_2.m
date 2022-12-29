@@ -157,4 +157,8 @@ function output = filt_made(coeff, chk, value)
     end
 end
 
+
 # merge confilct will occure due to this sentence
+
+% take a look at how to take this change
+
